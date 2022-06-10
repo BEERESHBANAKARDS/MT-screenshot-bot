@@ -15,7 +15,7 @@ An attempt to implement the screenshot generation of telegram files. Live versio
 ## Installation Guide
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/BEERESHBANAKARDS/MT-screenshot-bot)
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Gqwrm2?referralCode=Az3Uzd)
 ### Prerequisites
 
 * FFmpeg.
